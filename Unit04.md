@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME104: Computer-Aided Design (CAD)"
+course_description: "An exploration of the professional modeling tool known as Computer Aided Design (CAD). Covers engineering graphics, isometric, othographic, and pictorial representations, tolerance and dimensioning, working with computer design systems, multidimensional representations and operations, and elementary design."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: CAD Project** <span id="4"></span> 
 **You now know the basics of technical drawingandhow to use a CAD
 programto create 2D and 3D sketches and models.  You are ready to create
