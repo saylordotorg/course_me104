@@ -103,4 +103,10 @@ computer
  √    Have read the [Saylor Student
 Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/me104/Unit01/)
+- [Unit 2](https://legacy.saylor.org/me104/Unit02/)
+- [Unit 3](https://legacy.saylor.org/me104/Unit03/)
+- [Unit 4](https://legacy.saylor.org/me104/Unit04/)
+- [Unit 5](https://legacy.saylor.org/me104/Unit05/)
