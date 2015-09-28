@@ -113,3 +113,4 @@ Handbook](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHa
 - [Unit 3](https://legacy.saylor.org/me104/Unit03/)
 - [Unit 4](https://legacy.saylor.org/me104/Unit04/)
 - [Unit 5](https://legacy.saylor.org/me104/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME104/ME104-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME104/ME104-FinalExam-Answers.html)
