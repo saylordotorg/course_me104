@@ -20,9 +20,9 @@ Upon successful completion of this unit, students will be able to:
 
 -   **Activity: The Saylor Foundation’s “CAD Project”**
     Link: The Saylor Foundation’s “[CAD
-    Project](http://www.saylor.org/site/wp-content/uploads/2011/04/ME104-CAD-Project-4.1.pdf)”
+    Project](https://resources.saylor.org/archived/wp-content/uploads/2011/04/ME104-CAD-Project-4.1.pdf)”
     (PDF), "[Example
-    Files](http://www.saylor.org/site/wp-content/uploads/2011/02/ME104-Example-4.1.zip)"
+    Files](https://resources.saylor.org/archived/wp-content/uploads/2011/02/ME104-Example-4.1.zip)"
     (ZIP)  
         
      Instructions: Please download the PDF file linked above to access
