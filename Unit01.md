@@ -113,7 +113,7 @@ Upon successful completion of this unit, students will be able to:
     “Design Handbook: Engineering Drawing and Sketching”**
     Link: Massachusetts Institute of Technology OpenCourseWare: [“Design
     Handbook: Engineering Drawing and
-    Sketching”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME104-1.1.1-DesignHandbook.pdf) (PDF)  
+    Sketching”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/04/ME104-1.1.1-DesignHandbook.pdf) (PDF)  
       
      Instructions: Read this document for an overview of engineering
     drawing and design. You need not appreciate all details at this
